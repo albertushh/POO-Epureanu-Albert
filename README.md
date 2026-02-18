@@ -1,3 +1,1 @@
-..
-
 Ce cauti aici cumetre
