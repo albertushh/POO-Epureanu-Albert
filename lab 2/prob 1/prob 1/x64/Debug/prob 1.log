@@ -1,0 +1,10 @@
+﻿  prob 1.cpp
+  student.cpp
+  Generating Code...
+E:\facultate\oop\lab 2\prob 1\prob 1\student.cpp(40,5): error C2660: 'my_strcmp': function does not take 1 arguments
+      E:\facultate\oop\lab 2\prob 1\prob 1\abc.h(14,6):
+      see declaration of 'my_strcmp'
+      E:\facultate\oop\lab 2\prob 1\prob 1\student.cpp(40,5):
+      while trying to match the argument list '(char *)'
+  
+E:\facultate\oop\lab 2\prob 1\prob 1\student.cpp(41,1): error C2059: syntax error: '}'
